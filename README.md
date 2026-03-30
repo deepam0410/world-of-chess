@@ -32,8 +32,6 @@ You don't need Node.js or any build tools to run this application!
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/chess-world.git
-   ```
 2. **Open the project:**
    Simply navigate to the folder and open `index.html` in your favorite modern web browser (Chrome, Firefox, Safari, Edge).
    
@@ -48,10 +46,6 @@ You don't need Node.js or any build tools to run this application!
 * `moveDemo.js` - Logic mapping and DOM drawing for the interactive chessboard popups.
 * `cursorFx.js` - The WebGL and mathematics powering the immersive 3D custom mouse cursor.
 * `visuals.js` - Logic for the cinematic page transitions, piece comparison panel, and gamified achievement system. 
-
-## 🎨 Design Philosophy
-
-This project was built to step away from "boring" web apps. It favors rich gradients, elegant serif typography (*Cinzel* and *EB Garamond*), glassmorphism styles, profound box-shadows, and micro-animations to create an interface that feels like you're stepping into an ancient, high-stakes tournament hall. 
 
 ---
 *Created with a passion for web development and a love for the timeless game of Chess.*
